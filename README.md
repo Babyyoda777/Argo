@@ -9,7 +9,8 @@ The main board houses the CM5 and breaks out the most basic functionality needed
 - 1x HDMI FPC connector for external break out
 - 1x PCIe FPC connector, Pi 5 compatible
 - 2x USB-C (One for power/flashing - USB 2.0 and one regular USB 3.0)
-- Integrated BMS (BQ25890 + TPS61088) with up to 25W output dependent on battery used.
+- Integrated BMS (BQ25895 + TPS61088) with up to 25W output dependent on battery used.
+- I2C control via Attiny85 for BQ25895
 
 
 ## Expansion Boards:
