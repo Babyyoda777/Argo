@@ -21,3 +21,6 @@ The main board houses the CM5 and breaks out the most basic functionality needed
 ### M.2 PCIe Expansion:
 - Adds an M.2 M-Key Slot for external SSD
 
+### Impedance Calculations:
+
+![Screenshot 2025-06-20 at 10 25 04](https://github.com/user-attachments/assets/fcca1521-265d-4552-98bc-3423b89481b7)
