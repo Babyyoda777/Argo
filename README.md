@@ -23,4 +23,4 @@ The main board houses the CM5 and breaks out the most basic functionality needed
 
 ### Impedance Calculations:
 
-![Screenshot 2025-06-20 at 10 25 04](https://github.com/user-attachments/assets/fcca1521-265d-4552-98bc-3423b89481b7)
+![Screenshot 2025-06-23 at 16 21 00](https://github.com/user-attachments/assets/02575efe-898f-4290-9d9e-e47086548d54)
