@@ -15,7 +15,7 @@ The main board houses the CM5 and breaks out the most basic functionality needed
 ![Screenshot 2025-06-29 at 16 01 01](https://github.com/user-attachments/assets/bd35aa32-44a8-4953-8d1e-238c0090ced5)
 ![Screenshot 2025-06-29 at 16 01 18](https://github.com/user-attachments/assets/29466518-22d7-480c-9095-2773139ca100)
 
-
+Read more about the mainboard [here](./mainboard.md)
 
 ## Expansion Boards:
 
