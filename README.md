@@ -1,4 +1,4 @@
-# CM5 Playground
+# Argo
 
 ## Mainboard
 The main board houses the CM5 and breaks out the most basic functionality needed.
