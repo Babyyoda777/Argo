@@ -12,6 +12,10 @@ The main board houses the CM5 and breaks out the most basic functionality needed
 - Integrated BMS (BQ25895) with up to 15W output dependent on battery used.
 - I2C control for BQ25895
 
+- ![Screenshot 2025-06-29 at 16 01 01](https://github.com/user-attachments/assets/bd35aa32-44a8-4953-8d1e-238c0090ced5)
+- ![Screenshot 2025-06-29 at 16 01 18](https://github.com/user-attachments/assets/29466518-22d7-480c-9095-2773139ca100)
+
+
 
 ## Expansion Boards:
 
