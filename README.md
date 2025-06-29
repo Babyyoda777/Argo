@@ -15,9 +15,6 @@ The main board houses the CM5 and breaks out the most basic functionality needed
 
 ## Expansion Boards:
 
-### HDMI Capture Card:
-- MS2130 Based USB-C capture card for use with Orion on iPad.
-
 ### M.2 PCIe Expansion:
 - Adds an M.2 M-Key Slot for external SSD
 
