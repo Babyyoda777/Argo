@@ -11,9 +11,9 @@ The main board houses the CM5 and breaks out the most basic functionality needed
 - 2x USB-C (One for power/flashing - USB 2.0 and one regular USB 3.0)
 - Integrated BMS (BQ25895) with up to 15W output dependent on battery used.
 - I2C control for BQ25895
-
-![Screenshot 2025-06-29 at 16 01 01](https://github.com/user-attachments/assets/bd35aa32-44a8-4953-8d1e-238c0090ced5)
-![Screenshot 2025-06-29 at 16 01 18](https://github.com/user-attachments/assets/29466518-22d7-480c-9095-2773139ca100)
+  
+![Screenshot 2025-06-29 at 16 38 10](https://github.com/user-attachments/assets/39c998c6-869e-438a-ada8-2e50c2cf9fd6)
+![Screenshot 2025-06-29 at 16 39 02](https://github.com/user-attachments/assets/b91c2f8f-2672-4234-bbd9-1b4975fe4b93)
 
 Read more about the mainboard [here](./mainboard.md)
 
