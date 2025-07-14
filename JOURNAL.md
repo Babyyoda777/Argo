@@ -13,6 +13,8 @@ Initial Roadmapping, component selection and formfactor decisions.
 
 Decided on formfactor similar to Waveshare Nano series due to nice compact formfactor.
 
+Time Spent: 3 hours
+
 June 22nd:
 
 Exploring TPS61088 based boost converter system for fixed 5V battery power:
@@ -20,6 +22,8 @@ Exploring TPS61088 based boost converter system for fixed 5V battery power:
 <img width="1125" height="1042" alt="image" src="https://github.com/user-attachments/assets/07e71390-31d5-4639-a88e-ec29dccbe8dc" />
 
 Runs in conjuction with loadsharing battery charging IC.
+
+Time Spent: 5 hours
 
 June 24th
 
@@ -29,11 +33,15 @@ Scrapped TPS61088, most LiPos can't safely discharge more than 3-5A unless its a
 
 Completed schematic above.
 
+Time spent: 3 days
+
 June 30th:
 
 Began layout after completing remaining schematics based on CM5 IO Board schematics for basic functionality.
 
 Using a 4 Layer stack up as SIG/PWR : GND : GND : SIG/PWR
+
+Time spent: 8 hours
 
 July 3rd:
 
@@ -43,3 +51,4 @@ Got sanity check on TI Forum for BQ25895 layout and schematic for more confidenc
 
 <img width="1125" height="2144" alt="image" src="https://github.com/user-attachments/assets/f8b3c005-5418-47d6-b58b-dc88ccaa67b2" />
 
+Time Spent: 16 hours (complete rerouting needed).
