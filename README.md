@@ -25,3 +25,6 @@ Read more about the mainboard [here](./mainboard.md)
 ### Impedance Calculations:
 
 ![Screenshot 2025-06-23 at 16 21 00](https://github.com/user-attachments/assets/02575efe-898f-4290-9d9e-e47086548d54)
+
+| Parts | Quantity |
+| 
