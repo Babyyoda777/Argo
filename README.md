@@ -21,6 +21,8 @@ Read more about the mainboard [here](./mainboard.md)
 
 ### M.2 PCIe Expansion:
 - Adds an M.2 M-Key Slot for external SSD
+Read more about the SSD board [here](./ssdboard.md)
+
 
 ### Impedance Calculations:
 
