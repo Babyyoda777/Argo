@@ -26,9 +26,10 @@ Read more about the mainboard [here](./mainboard.md)
 
 ![Screenshot 2025-06-23 at 16 21 00](https://github.com/user-attachments/assets/02575efe-898f-4290-9d9e-e47086548d54)
 
-
-| Part       | Quantity |
-|------------|----------|
-| Main Board | 1        |
-| Battery PCB| 1        |
-
+| Part        | Quantity | Price    |
+|-------------|----------|----------|
+| Mainboard PCBA | 5        | $325.77   |
+| SSD HAT-    | 5        | $128.07   |
+| 1 TB Kingston NVMe Industrial SSD    | 1 | $120 |
+| CM5 16GB RAM | 1        | $120   |
+| 3.7V LiPo 5000mAh | 1        | $25.00   |
