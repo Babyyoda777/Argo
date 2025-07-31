@@ -31,9 +31,3 @@ Read more about the SSD board [here](./ssdboard.md)
 | Part        | Quantity | Price    |
 |-------------|----------|----------|
 | Mainboard PCBA | 5        | $325.77   |
-| SSD HAT-    | 5        | $128.07   |
-| 1 TB Kingston NVMe Industrial SSD    | 1 | $120 |
-| CM5 16GB RAM | 1        | $120   |
-| 3.7V LiPo 5000mAh | 1        | $25.00   |
-
-note: only PCBA for Mainboard is being paid for via HackClub Highway.
