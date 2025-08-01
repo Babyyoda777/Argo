@@ -37,4 +37,4 @@ Read more about the SSD board [here](./ssdboard.md)
 | Mainboard PCBA | 5        | $325.77   |
 | 3.7V 3000mAh LiPo | 1        | $25.00   |
 
-Note: minimum quantity at JLCPCB is 5 hence $325.77 have fewer assembled does not change price meaningfully as this is a 6-layer ENIG board.
+Note: minimum quantity at JLCPCB is 5 hence $325.77, having fewer assembled does not change price meaningfully as this is a 6-layer ENIG board.
