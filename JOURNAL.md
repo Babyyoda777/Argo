@@ -83,5 +83,14 @@ July 7th:
 Worked on breaking out som GPIO as dedicated I2C and SPI lines. Also added connector for CM5 fan as these things can run hot and thermal throttle:
 
 <img width="440" height="310" alt="Screenshot 2025-08-01 at 19 53 24" src="https://github.com/user-attachments/assets/bee41fa3-dc23-4782-9ad3-18778ac4ecd7" />
+
 Time spent: 1 hour
 
+
+July 8th:
+
+Redid layout for BQ25895 again. Focus on minimising overheating and some concern for EMI. Considered using resistor array for 10k resistors however its more expensive to use an array and functionally not significant so left as is. New routing:
+
+<img width="597" height="452" alt="Screenshot 2025-08-01 at 19 57 56" src="https://github.com/user-attachments/assets/7517f159-bf27-4049-9073-4087a0188c0c" />
+
+Time spent: 2 hours
