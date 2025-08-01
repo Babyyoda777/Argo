@@ -31,3 +31,4 @@ Read more about the SSD board [here](./ssdboard.md)
 | Part        | Quantity | Price    |
 |-------------|----------|----------|
 | Mainboard PCBA | 5        | $325.77   |
+| 3.7V 3000mAh LiPo | 1        | $25.00   |
