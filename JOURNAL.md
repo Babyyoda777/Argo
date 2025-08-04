@@ -94,3 +94,11 @@ Redid layout for BQ25895 again. Focus on minimising overheating and some concern
 <img width="597" height="452" alt="Screenshot 2025-08-01 at 19 57 56" src="https://github.com/user-attachments/assets/7517f159-bf27-4049-9073-4087a0188c0c" />
 
 Time spent: 2 hours
+
+August 4th:
+
+Sent for production but had issue spotted on PCB. Turns out length matching on inner layer was a bit too close so was at risk of short circuit. Got it fixed so should be good to go!
+
+<img width="1288" height="947" alt="Screenshot 2025-08-04 at 14 05 05" src="https://github.com/user-attachments/assets/224c3fef-1d43-4f7a-9cfc-165f96021e2b" />
+
+Time spent: 1 hour
