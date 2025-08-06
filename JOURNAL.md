@@ -6,7 +6,7 @@ created_at: "2025-06-25"
 total time spent: 62 hours
 ---
 
-June 20th:
+# June 20th:
 
 Initial Roadmapping, component selection and formfactor decisions.
 
@@ -16,7 +16,7 @@ Decided on formfactor similar to Waveshare Nano series due to nice compact formf
 
 Time Spent: 3 hours
 
-June 22nd:
+# June 22nd:
 
 Exploring TPS61088 based boost converter system for fixed 5V battery power:
 
@@ -26,7 +26,7 @@ Runs in conjuction with loadsharing battery charging IC.
 
 Time Spent: 5 hours
 
-June 24th
+# June 24th
 
 Scrapped TPS61088, most LiPos can't safely discharge more than 3-5A unless its a 18650 or similar at 1S so its ideal to use built in boost converter of BQ25895 for up to 5V @ 3.1A for the CM5.
 
@@ -36,7 +36,7 @@ Completed schematic above.
 
 Time spent: 3 days
 
-June 30th:
+# June 30th:
 
 Began layout after completing remaining schematics based on CM5 IO Board schematics for basic functionality.
 
@@ -44,7 +44,7 @@ Using a 4 Layer stack up as SIG/PWR : GND : GND : SIG/PWR
 
 Time spent: 8 hours
 
-July 3rd:
+# July 3rd:
 
 Turns out 4 layers will not be sufficient due to small board size and power routing. Moving to 6 layer stack up as SIG/PWR : GND : SIG/PWR : PWR : GND : SIG/PWR
 
@@ -55,7 +55,7 @@ Got sanity check on TI Forum for BQ25895 layout and schematic for more confidenc
 Time Spent: 16 hours (complete rerouting needed).
 
 
-July 4th:
+# July 4th:
 
 Further look into USB-C and USB 3.0 turns out to get CM5 to have a USB-C 3.0 port rather than a simple USB-A 3.0 port you need and SS Mux to manage the reversible connector and its need for double the RX and TX superspeed lines. Luckily the regular USB 2.0 D+ and D- lines don't really need anything as the traces are relatively shot so redriver is optional and its probably ok.
 
@@ -63,7 +63,7 @@ Further look into USB-C and USB 3.0 turns out to get CM5 to have a USB-C 3.0 por
 
 Time spent: 4 hours
 
-July 5th:
+# July 5th:
 
 Worked on finding a suitable small battery connector. Decided to use a Molex backplane connector as it can handle up to 6A which is around 24W max and 18W minimum if pushing full 6A through so should be more than enough to handle CM5 with a high discharge LiPo/Li-ion.
 
@@ -71,7 +71,7 @@ Worked on finding a suitable small battery connector. Decided to use a Molex bac
 
 Time spent: 2 hours
 
-July 6th:
+# July 6th:
 
 Rerouted HDMI differential pairs for slightly cleaner look. Also increased trace width for power supply to micro-HDMI port just to be safe: 
 
@@ -79,7 +79,7 @@ Rerouted HDMI differential pairs for slightly cleaner look. Also increased trace
 
 Time spent: 1 hour
 
-July 7th:
+# July 7th:
 
 Worked on breaking out som GPIO as dedicated I2C and SPI lines. Also added connector for CM5 fan as these things can run hot and thermal throttle:
 
@@ -88,7 +88,7 @@ Worked on breaking out som GPIO as dedicated I2C and SPI lines. Also added conne
 Time spent: 1 hour
 
 
-July 8th:
+# July 8th:
 
 Redid layout for BQ25895 again. Focus on minimising overheating and some concern for EMI. Considered using resistor array for 10k resistors however its more expensive to use an array and functionally not significant so left as is. New routing:
 
@@ -96,7 +96,7 @@ Redid layout for BQ25895 again. Focus on minimising overheating and some concern
 
 Time spent: 2 hours
 
-August 4th:
+# August 4th:
 
 Sent for production but had issue spotted on PCB. Turns out length matching on inner layer was a bit too close so was at risk of short circuit. Got it fixed so should be good to go!
 
@@ -104,7 +104,7 @@ Sent for production but had issue spotted on PCB. Turns out length matching on i
 
 Time spent: 1 hour
 
-August 5th:
+# August 5th:
 
 Started work on SSD add-on. This board is a miniaturised version of the official M.2 HAT+ but with minor changes to work purely off the PCIe flex cable without requiring external 5V. As such it consumes a max of 5W but also means the SSD being used will need to be low power. 
 
@@ -115,3 +115,5 @@ From above, the board also uses a much thinner profile M.2 Connector and screw m
 The reason for this choice is to allow for a battery to be stacking underneath this board. Together with the main board, the total dimensions from a bird's eye view is 85mm x 55mm which includes a 5mm gap between the two, which will be used for routing of PCIe FPC cable.
 
 IMPORTANT NOTE: The FPC connectors used are both double sided contacts, this is to allow flexibility of board placement and also which FPC cable is used.
+
+Time spent: 3 hours
