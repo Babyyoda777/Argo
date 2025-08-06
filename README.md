@@ -35,6 +35,7 @@ Read more about the SSD board [here](./ssdboard.md)
 | Part        | Quantity | Price    |
 |-------------|----------|----------|
 | Mainboard PCBA | 5        | $61.00   |
+| SSD PCBA | 3 | $128.00 |
 | 3.7V 3000mAh LiPo | 1        | $25.00   |
 | Raspberry Pi CM5 16GB | 1 | $120.00 |
 | Raspberry Pi HQ Camera | 1 | $91.00 |
