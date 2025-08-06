@@ -39,5 +39,5 @@ Read more about the SSD board [here](./ssdboard.md)
 | 3.7V 3000mAh LiPo | 1        | $25.00   |
 | Raspberry Pi CM5 16GB | 1 | $120.00 |
 | Raspberry Pi HQ Camera | 1 | $91.00 |
-| Raspberry Pi C-mount lens | 1 | $40.00 |
+
 Note: Got sponsorship for PCB so price reduced to $61 from $350. 16GB CM5 needed due to the astro-stacking software and various other things that will be run in parallel.
