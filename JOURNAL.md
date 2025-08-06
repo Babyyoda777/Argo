@@ -103,3 +103,15 @@ Sent for production but had issue spotted on PCB. Turns out length matching on i
 <img width="1288" height="947" alt="Screenshot 2025-08-04 at 14 05 05" src="https://github.com/user-attachments/assets/224c3fef-1d43-4f7a-9cfc-165f96021e2b" />
 
 Time spent: 1 hour
+
+August 5th:
+
+Started work on SSD add-on. This board is a miniaturised version of the official M.2 HAT+ but with minor changes to work purely off the PCIe flex cable without requiring external 5V. As such it consumes a max of 5W but also means the SSD being used will need to be low power. 
+
+<img width="652" height="515" alt="image" src="https://github.com/user-attachments/assets/640820b8-2859-4f89-8d68-7971ebeeef3d" />
+
+From above, the board also uses a much thinner profile M.2 Connector and screw mounts, as such only single sided M.2 NVMe SSDs will work. Whilst double sided ones will work, it may be difficult to get them flush to the board but that awaits testing.
+
+The reason for this choice is to allow for a battery to be stacking underneath this board. Together with the main board, the total dimensions from a bird's eye view is 85mm x 55mm which includes a 5mm gap between the two, which will be used for routing of PCIe FPC cable.
+
+IMPORTANT NOTE: The FPC connectors used are both double sided contacts, this is to allow flexibility of board placement and also which FPC cable is used.
