@@ -3,6 +3,7 @@ title: Icarus
 author: Muhammad Azlan Shah
 description: Opensource battery powered CM5 carrier board.
 created_at: "2025-06-25"
+total time spent: 62 hours
 ---
 
 June 20th:
