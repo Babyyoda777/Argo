@@ -36,8 +36,8 @@ Read more about the SSD board [here](./ssdboard.md)
 |-------------|----------|----------|
 | Mainboard PCBA | 5        | $61.00   |
 | SSD PCBA | 3 | $128.00 |
-| 3.7V 3000mAh LiPo | 1        | $25.00   |
-| Raspberry Pi CM5 16GB | 1 | $120.00 |
-| Raspberry Pi HQ Camera | 1 | $91.00 |
+| [3.7V 3000mAh LiPo](https://www.aliexpress.com/item/1005006866132237.html?spm=a2g0o.cart.0.0.202b38dav2dfIE&mp=1&pdp_npi=5%40dis%21GBP%21GBP%2018.99%21GBP%2013.29%21%21GBP%2012.42%21%21%21%40211b61ae17545027136684032e8141%2112000038559144955%21ct%21UK%214887545243%21%211%210) | 1        | $25.00   |
+| [Raspberry Pi CM5 16GB](https://www.digikey.co.uk/en/products/detail/raspberry-pi/SC1607/25805578) | 1 | $130.00 |
+
 
 Note: Got sponsorship for PCB so price reduced to $61 from $350. 16GB CM5 needed due to the astro-stacking software and various other things that will be run in parallel.
