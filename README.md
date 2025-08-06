@@ -34,7 +34,9 @@ Read more about the SSD board [here](./ssdboard.md)
 
 | Part        | Quantity | Price    |
 |-------------|----------|----------|
-| Mainboard PCBA | 5        | $325.77   |
+| Mainboard PCBA | 5        | $61.00   |
 | 3.7V 3000mAh LiPo | 1        | $25.00   |
-
-Note: minimum quantity at JLCPCB is 5 hence $325.77, having fewer assembled does not change price meaningfully as this is a 6-layer ENIG board.
+| Raspberry Pi CM5 16GB | 1 | $120.00 |
+| Raspberry Pi HQ Camera | 1 | $91.00 |
+| Raspberry Pi C-mount lens | 1 | $40.00 |
+Note: Got sponsorship for PCB so price reduced to $61 from $350. 16GB CM5 needed due to the astro-stacking software and various other things that will be run in parallel.
