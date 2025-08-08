@@ -22,13 +22,14 @@ Exploring TPS61088 based boost converter system for fixed 5V battery power:
 
 <img width="1125" height="1042" alt="image" src="https://github.com/user-attachments/assets/07e71390-31d5-4639-a88e-ec29dccbe8dc" />
 
-Runs in conjuction with loadsharing battery charging IC.
+Runs in conjuction with loadsharing battery charging IC. Main idea is that most TI battery chargers have an internal fet that can pass through around 6A of continuous discharging current from the battery. This means, boosted to 5V, you can generally get 4-5A so around meeting the Pi 5 requirements but depending on how charged the battery is. This exceeds the usual 5V 3A limit that the integrated OTG boost that some chargers support can provide. Still need to consider whether this is actually worth it as the TPS61088 takes a large amount of board space.
+
 
 Time Spent: 5 hours
 
 # June 24th
 
-Scrapped TPS61088, most LiPos can't safely discharge more than 3-5A unless its a 18650 or similar at 1S so its ideal to use built in boost converter of BQ25895 for up to 5V @ 3.1A for the CM5.
+Scrapped TPS61088, most LiPos can't safely discharge more than 3-5A unless its a 18650 or similar at 1S so its ideal to use built in boost converter of BQ25895 for up to 5V @ 3.1A for the CM5. This comes off the back of the CM5 datasheet power requirements section which states that during normal operation it uses 900mA. Additional testing from Jeff Geerling shows the absolute max power draw (when under stress) by an overcloked CM5 was around 8W. This leaves around 7.5W for remaining functions which fits almost perfectly with the 2.5W output for the USB port and 5W needed for rhe PCIe connection. Thanks Jeff!
 
 <img width="1090" height="806" alt="image" src="https://github.com/user-attachments/assets/262943d9-c38b-4b7f-88c0-e836158d3dec" />
 
