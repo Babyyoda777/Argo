@@ -2,6 +2,9 @@
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-08 at 17 48 39" src="https://github.com/user-attachments/assets/5ceb4a81-7a7b-4c84-b6de-5be7aa7464da" />
 
+<img width="1920" height="1010" alt="Screenshot 2025-08-08 at 18 07 07" src="https://github.com/user-attachments/assets/044bfcaa-2f4e-4551-99e2-d642546053e9" />
+
+
 ## Mainboard
 The main board houses the CM5 and breaks out the most basic functionality needed.
 
