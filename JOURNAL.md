@@ -48,6 +48,8 @@ Using a 4 Layer stack up as SIG/PWR : GND : GND : SIG/PWR
 
 <img width="421" height="557" alt="Screenshot 2025-08-08 at 16 12 43" src="https://github.com/user-attachments/assets/957bb738-888c-4166-b75a-94168541d544" />
 
+Four layers helps with heat dissipation. I learnt the hard way how hot a charging IC can get on a 2 Layer board without oodles of space on the ground pour for heat dissipation, the extra copper really helps and makes it more suitable for stacking batteries close to the board. After all, batteries really dont like heat...
+
 Time spent: 8 hours
 
 # July 3rd:
