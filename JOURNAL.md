@@ -123,3 +123,10 @@ The reason for this choice is to allow for a battery to be stacking underneath t
 IMPORTANT NOTE: The FPC connectors used are both double sided contacts, this is to allow flexibility of board placement and also which FPC cable is used.
 
 Time spent: 3 hours
+
+# August 6th:
+
+Ordered first PCB prototype (my bank account hurts). Thanks to Bob from OSHWLab for sponsoring! Cost of 5 main boards with expidited assembly and fabrication was $350. Regular slow manufacturing wouldve probably been half the price :/ but i had very little time to get the board in my hands to test.
+
+<img width="561" height="593" alt="Screenshot 2025-08-08 at 16 14 22" src="https://github.com/user-attachments/assets/4f36d106-be70-488d-8807-9079712f4e50" />
+
