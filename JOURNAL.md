@@ -24,6 +24,7 @@ Exploring TPS61088 based boost converter system for fixed 5V battery power:
 
 Runs in conjuction with loadsharing battery charging IC. Main idea is that most TI battery chargers have an internal fet that can pass through around 6A of continuous discharging current from the battery. This means, boosted to 5V, you can generally get 4-5A so around meeting the Pi 5 requirements but depending on how charged the battery is. This exceeds the usual 5V 3A limit that the integrated OTG boost that some chargers support can provide. Still need to consider whether this is actually worth it as the TPS61088 takes a large amount of board space.
 
+<img width="560" height="287" alt="Screenshot 2025-08-08 at 16 11 12" src="https://github.com/user-attachments/assets/b2b34856-9acd-4189-bbc9-dc841f75582d" />
 
 Time Spent: 5 hours
 
@@ -42,6 +43,10 @@ Time spent: 3 days
 Began layout after completing remaining schematics based on CM5 IO Board schematics for basic functionality.
 
 Using a 4 Layer stack up as SIG/PWR : GND : GND : SIG/PWR
+
+<img width="949" height="304" alt="Screenshot 2025-08-08 at 16 12 23" src="https://github.com/user-attachments/assets/41513dff-22bc-490a-ba8d-de6f7e6cf72e" />
+
+<img width="421" height="557" alt="Screenshot 2025-08-08 at 16 12 43" src="https://github.com/user-attachments/assets/957bb738-888c-4166-b75a-94168541d544" />
 
 Time spent: 8 hours
 
