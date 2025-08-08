@@ -132,3 +132,9 @@ Ordered first PCB prototype (my bank account hurts). Thanks to Bob from OSHWLab 
 
 <img width="561" height="593" alt="Screenshot 2025-08-08 at 16 14 22" src="https://github.com/user-attachments/assets/4f36d106-be70-488d-8807-9079712f4e50" />
 
+# August 8th:
+
+Designed a custom low-profile heatsink for the CM5, will likely be manufactured at JLCCNC. This heatsink features close-to direct metal contact with hottest parts of CM5, including the main SoC as well as power delivery chips. Also added my own little design spin :)
+
+
+<img width="968" height="390" alt="Screenshot 2025-08-08 at 19 50 31" src="https://github.com/user-attachments/assets/3f392368-40d9-42a4-8fe3-5049ab78b5c6" />
