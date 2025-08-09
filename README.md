@@ -44,7 +44,7 @@ Huge thanks to Bob from OSHWLab for all the support and sponsoring the PCBA!
 
 If you're a teenager interested in tech, checkout (HackClub)[https://hackclub.com], huge thanks to them for covering remaining tools/materials costs.
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3c6a5d8c-0add-428b-ab01-c25ad1e42543" />
+<img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/3c6a5d8c-0add-428b-ab01-c25ad1e42543" />
 
 
 ### BOM:
