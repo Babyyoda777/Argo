@@ -36,8 +36,9 @@ Read more about the SSD board [here](./ssdboard.md)
 
 ### Sponsored by OSHWLab Stars:
 
-<img width="124" height="961" alt="image" src="https://github.com/user-attachments/assets/e93a1d8b-093b-412c-bb61-1ad24fef76f9" />
-<img width="251" height="1317" alt="image" src="https://github.com/user-attachments/assets/21c10633-868b-4a69-a2cb-da89eb62470c" />
+<img width="124" height="1000" alt="image" src="https://github.com/user-attachments/assets/e93a1d8b-093b-412c-bb61-1ad24fef76f9" />
+
+<img width="251" height="1000" alt="image" src="https://github.com/user-attachments/assets/21c10633-868b-4a69-a2cb-da89eb62470c" />
 
 ### BOM:
 
