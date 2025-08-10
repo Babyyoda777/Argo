@@ -62,6 +62,5 @@ Huge thanks to Bob from OSHWLab for all the support and sponsoring the PCBA! If 
 | Raspberry Pi CM5 | | $120.00 |
 | CM5 Cooler | 1 | $7.00 |
 | PCIe FPC + Display FPC | 3 | $3.95 |
-
-
+| Soldering iron + solder + microsoldering tips | 1 | $69 |
 Note: Got sponsorship for PCB so price reduced to $61 from $350. 16GB CM5 needed due to the astro-stacking software and various other things that will be run in parallel.
