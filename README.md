@@ -56,10 +56,11 @@ Huge thanks to Bob from OSHWLab for all the support and sponsoring the PCBA! If 
 | Part        | Quantity | Price    |
 |-------------|----------|----------|
 | Mainboard PCBA | 5        | $0.00  Paid Myself |
-| SSD PCBA | 3 | $0.00 Paid myself|
+| SSD PCBA | 3 | $0.00 Paid myself funds redirected to soldering iron + batteries and jumper cables |
 | Shipping + Taxes | 1 | $57.80 |
 | [3.7V 3000mAh LiPo](https://www.aliexpress.com/item/1005006866132237.html?spm=a2g0o.cart.0.0.202b38dav2dfIE&mp=1&pdp_npi=5%40dis%21GBP%21GBP%2018.99%21GBP%2013.29%21%21GBP%2012.42%21%21%21%40211b61ae17545027136684032e8141%2112000038559144955%21ct%21UK%214887545243%21%211%210) | 1        | $25.00   |
 | Raspberry Pi CM5 | | $120.00 |
+|
 
 
 Note: Got sponsorship for PCB so price reduced to $61 from $350. 16GB CM5 needed due to the astro-stacking software and various other things that will be run in parallel.
