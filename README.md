@@ -33,6 +33,10 @@ Read more about the SSD board [here](./ssdboard.md)
 
 ![Screenshot 2025-06-23 at 16 21 00](https://github.com/user-attachments/assets/02575efe-898f-4290-9d9e-e47086548d54)
 
+### OSHWA Certification:
+
+<img width="1000" height="650" alt="PNG image" src="https://github.com/user-attachments/assets/eacc20a1-aa8d-4547-9267-b5a6de9bc2f0" />
+
 
 ## Sponsored by OSHWLab Stars and HackClub:
  &nbsp;
